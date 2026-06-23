@@ -1,0 +1,9 @@
+venv/
+qdrant_storage/
+*.gguf
+.DS_Store
+__pycache__/
+*.pyc
+
+tmp/
+*.snapshot
